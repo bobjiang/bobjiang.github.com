@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Bob Jiang Blog]]></title>
-  <link href="http://bobjiang.github.com/atom.xml" rel="self"/>
-  <link href="http://bobjiang.github.com/"/>
-  <updated>2012-10-27T21:08:42+08:00</updated>
-  <id>http://bobjiang.github.com/</id>
+  <link href="http://bobjiang.com/atom.xml" rel="self"/>
+  <link href="http://bobjiang.com/"/>
+  <updated>2012-10-27T22:14:19+08:00</updated>
+  <id>http://bobjiang.com/</id>
   <author>
     <name><![CDATA[Bob Jiang]]></name>
     
@@ -15,10 +15,14 @@
   
   <entry>
     <title type="html"><![CDATA[Contact Me]]></title>
-    <link href="http://bobjiang.github.com/blog/2012/10/27/contact-me/"/>
+    <link href="http://bobjiang.com/blog/2012/10/27/contact-me/"/>
     <updated>2012-10-27T20:27:00+08:00</updated>
-    <id>http://bobjiang.github.com/blog/2012/10/27/contact-me</id>
+    <id>http://bobjiang.com/blog/2012/10/27/contact-me</id>
     <content type="html"><![CDATA[<p>Bob Jiang</p>
+
+<p>jiangxb@gmail.com</p>
+
+<p>新浪微博： 姜信宝Bob</p>
 
 <hr />
 ]]></content>
