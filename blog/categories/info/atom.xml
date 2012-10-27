@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: info | Bob Jiang Blog]]></title>
+  <link href="http://bobjiang.github.com/blog/categories/info/atom.xml" rel="self"/>
+  <link href="http://bobjiang.github.com/"/>
+  <updated>2012-10-27T21:08:42+08:00</updated>
+  <id>http://bobjiang.github.com/</id>
+  <author>
+    <name><![CDATA[Bob Jiang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Contact Me]]></title>
+    <link href="http://bobjiang.github.com/blog/2012/10/27/contact-me/"/>
+    <updated>2012-10-27T20:27:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2012/10/27/contact-me</id>
+    <content type="html"><![CDATA[<p>Bob Jiang</p>
+
+<hr />
+]]></content>
+  </entry>
+  
+</feed>
