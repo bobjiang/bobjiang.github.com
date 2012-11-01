@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Bob Jiang Blog]]></title>
-  <link href="http://bobjiang.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: blog | Bob Jiang Blog]]></title>
+  <link href="http://bobjiang.com/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://bobjiang.com/"/>
   <updated>2012-11-01T22:29:49+08:00</updated>
   <id>http://bobjiang.com/</id>
@@ -33,21 +33,6 @@
 
 
 <p>有问题，欢迎大家一起讨论。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Contact Me]]></title>
-    <link href="http://bobjiang.com/blog/2012/10/27/contact-me/"/>
-    <updated>2012-10-27T20:27:00+08:00</updated>
-    <id>http://bobjiang.com/blog/2012/10/27/contact-me</id>
-    <content type="html"><![CDATA[<p>Bob Jiang</p>
-
-<p>jiangxb@gmail.com</p>
-
-<p>新浪微博： 姜信宝Bob</p>
-
-<hr />
 ]]></content>
   </entry>
   
