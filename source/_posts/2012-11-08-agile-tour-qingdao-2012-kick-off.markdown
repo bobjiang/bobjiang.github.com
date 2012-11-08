@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "敏捷之旅青岛活动启动"
-date: 2012-11-08 13:11
+title: "Agile Tour Qingdao 2012 kick-off"
+date: 2012-11-08 13:25
 comments: true
 categories: [agile , agile tour , agiletour]
 description: 敏捷之旅青岛正式启动
