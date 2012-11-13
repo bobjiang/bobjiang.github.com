@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: octopress | Bob Jiang Blog]]></title>
+  <link href="http://bobjiang.github.com/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://bobjiang.github.com/"/>
+  <updated>2012-11-13T22:34:53+08:00</updated>
+  <id>http://bobjiang.github.com/</id>
+  <author>
+    <name><![CDATA[Bob Jiang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[blog setup]]></title>
+    <link href="http://bobjiang.github.com/blog/2012/10/27/blog-setup/"/>
+    <updated>2012-10-27T22:33:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2012/10/27/blog-setup</id>
+    <content type="html"><![CDATA[<p>我的github博客终于建好了，其中磕磕绊绊了很久，纠缠很长时间的一个问题是“git push 的时候 ssh.exe崩溃”</p>
+
+<p>解决方案很简单： 右键ssh.exe，选择兼容性，选择“Windows XP Service Pack 2”</p>
+
+<p>其他的过程就不一一废话了，给出一个简要列表：</p>
+
+<!-- more -->
+
+
+<ul>
+<li>github申请账号(<a href="http://www.github.com" title="GitHub">http://www.github.com</a>)，创建一个repository名字为 <your account>.github.com</li>
+<li>下载安装railsinstaller</li>
+<li>配置git连接github</li>
+<li>安装octopress</li>
+</ul>
+
+
+<p>有问题，欢迎大家一起讨论。</p>
+]]></content>
+  </entry>
+  
+</feed>

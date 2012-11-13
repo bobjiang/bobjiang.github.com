@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: blog | Bob Jiang Blog]]></title>
-  <link href="http://bobjiang.github.com/blog/categories/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: blog setup | Bob Jiang Blog]]></title>
+  <link href="http://bobjiang.github.com/blog/categories/blog-setup/atom.xml" rel="self"/>
   <link href="http://bobjiang.github.com/"/>
-  <updated>2012-11-11T21:24:46+08:00</updated>
+  <updated>2012-11-13T22:34:53+08:00</updated>
   <id>http://bobjiang.github.com/</id>
   <author>
     <name><![CDATA[Bob Jiang]]></name>
@@ -23,6 +23,9 @@
 <p>解决方案很简单： 右键ssh.exe，选择兼容性，选择“Windows XP Service Pack 2”</p>
 
 <p>其他的过程就不一一废话了，给出一个简要列表：</p>
+
+<!-- more -->
+
 
 <ul>
 <li>github申请账号(<a href="http://www.github.com" title="GitHub">http://www.github.com</a>)，创建一个repository名字为 <your account>.github.com</li>
