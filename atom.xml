@@ -4,7 +4,7 @@
   <title><![CDATA[Bob Jiang Blog]]></title>
   <link href="http://bobjiang.github.com/atom.xml" rel="self"/>
   <link href="http://bobjiang.github.com/"/>
-  <updated>2012-11-23T05:56:37+08:00</updated>
+  <updated>2012-11-24T07:30:49+08:00</updated>
   <id>http://bobjiang.github.com/</id>
   <author>
     <name><![CDATA[Bob Jiang]]></name>
@@ -165,20 +165,21 @@ flickr.com 每天可以发布10次以上。试想我们的软件多久可以发�
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Contact Bob Jiang]]></title>
+    <title type="html"><![CDATA[Bob Jiang的简历]]></title>
     <link href="http://bobjiang.github.com/blog/2012/10/27/contact-bob-jiang/"/>
     <updated>2012-10-27T20:27:00+08:00</updated>
     <id>http://bobjiang.github.com/blog/2012/10/27/contact-bob-jiang</id>
-    <content type="html"><![CDATA[<p>姜信宝 （Bob Jiang）
-任职爱立信， CSM, PMP，内部教练<br/>
-热衷敏捷，曾参与组织敏捷之旅 2011北京站活动。<br/>
-敏捷之旅2012北京核心组织者。<br/>
-在公司内致力于组织转型，对可视化管理、组织转型、演讲培训等兴趣浓厚。<br/>
-新浪微博 @ 姜信宝Bob<br/>
-jiangxb@gmail.com</p>
+    <content type="html"><![CDATA[<p>姜信宝 （Bob Jiang）<br/>
+我的简历<a href="http://www.linkedin.com/pub/bob-jiang/23/2b8/5a8">LinkedIn</a></p>
 
 <!-- more -->
 
+
+<p>任职爱立信,CSM,PMP,敏捷教练<br/>
+热衷敏捷,参与组织敏捷之旅 2011,2012北京站活动。<br/>
+在公司内致力于组织转型，对可视化管理、组织转型、演讲培训等兴趣浓厚。<br/>
+新浪微博:@姜信宝Bob<br/>
+jiangxb@gmail.com</p>
 
 <p><img src="http://bobjiang.github.com/images/me.jpg"></p>
 ]]></content>
