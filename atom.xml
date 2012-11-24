@@ -4,7 +4,7 @@
   <title><![CDATA[Bob Jiang Blog]]></title>
   <link href="http://bobjiang.github.com/atom.xml" rel="self"/>
   <link href="http://bobjiang.github.com/"/>
-  <updated>2012-11-24T07:30:49+08:00</updated>
+  <updated>2012-11-24T08:19:27+08:00</updated>
   <id>http://bobjiang.github.com/</id>
   <author>
     <name><![CDATA[Bob Jiang]]></name>
@@ -14,11 +14,31 @@
 
   
   <entry>
-    <title type="html"><![CDATA[测试]]></title>
-    <link href="http://bobjiang.github.com/blog/2012/11/23/test/"/>
-    <updated>2012-11-23T05:43:00+08:00</updated>
-    <id>http://bobjiang.github.com/blog/2012/11/23/test</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[闲置员工和闲置工作，哪个浪费更大？]]></title>
+    <link href="http://bobjiang.github.com/blog/2012/11/24/idle-worker-vs-idle-work/"/>
+    <updated>2012-11-24T07:34:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2012/11/24/idle-worker-vs-idle-work</id>
+    <content type="html"><![CDATA[<p>闲置的工作浪费大，还是闲置的员工浪费更大？</p>
+
+<p>从传统意义上来看，普遍认为闲置的员工是更大的浪费。作为老板，既然我花钱雇佣你，那么你就应该100%的时间在工作。&#8211;我猜想这是老板的普遍行为。</p>
+
+<p>不幸的是，这种方法降低了一种形式的浪费（闲置人员的浪费），而与此同时增加了另一种形式的浪费（闲置工作的浪费）。而且，大多数时间，闲置工作的成本要远高于闲置人员的成本。</p>
+
+<p>下面我们来举个例子：<br/>
+<em>把“保持人员100%忙”的想法应用在运动会4×100米接力跑比赛中。基于这种想法，这个比赛看起来是非常低效的。在整个比赛过程中，运动员只跑了1/4的时间。剩下的时间他们就干站着。那么如果当他们没有拿到接力棒时，他们只在原地跑动，或许在临近的跑道跑另一场比赛？那样的话，他们就100%的在跑了。<br/>
+但是显而易见，让运动员100%的时间都在跑，是不会赢得冠军的。只有他们作为一个团队拿着接力棒第一个冲过终点线，才能获得金牌。</em></p>
+
+<blockquote><p>看好接力棒，而不是赛跑者</p></blockquote>
+
+
+<p>在产品开发过程中，接力棒停留在地上，等价于工作已经准备好可以执行了，但是需要等待必要的资源而阻塞。当接力棒在地上的时候，你不会赢得比赛（交付产品）。（接力棒和赛跑者的这个比喻非常棒，因为它非常好地诠释了我们应该观察工作而不是人。但是，像任何比喻一样，它也有局限。这个比喻中，接力赛跑方法来传递工作恰恰是传统顺序开发中我们想要避免的一个方面！）</p>
+
+<p>同时每个人都知道100%利用资源的危害。<br/>
+<em>再说一个简单的例子，我们的电脑CPU或者内存如果100%在工作，那么我们可能什么也干不了。这个时候电脑慢的像一头老蜗牛（处理每个任务都是非常低效的）。</em></p>
+
+<p>一旦员工100%利用起来（没有闲置的员工），这个时候闲置的工作就会呈指数级增长。而实际上闲置的工作成本比闲置人员更加昂贵，因此在Scrum中我们要清醒的认识到如何去除工作流中的瓶颈。</p>
+
+<p><strong>让工作真正流动起来，而不是让员工忙起来！</strong></p>
 ]]></content>
   </entry>
   
