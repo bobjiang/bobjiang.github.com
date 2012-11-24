@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: organizer | Bob Jiang Blog]]></title>
+  <link href="http://bobjiang.github.com/blog/categories/organizer/atom.xml" rel="self"/>
+  <link href="http://bobjiang.github.com/"/>
+  <updated>2012-11-24T08:31:41+08:00</updated>
+  <id>http://bobjiang.github.com/</id>
+  <author>
+    <name><![CDATA[Bob Jiang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[敏捷之旅青岛 2012 启动]]></title>
+    <link href="http://bobjiang.github.com/blog/2012/11/08/agiletour-qingdao-2012-kick-off/"/>
+    <updated>2012-11-08T14:00:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2012/11/08/agiletour-qingdao-2012-kick-off</id>
+    <content type="html"><![CDATA[<p><strong>敏捷之旅青岛站的组织活动启动了。</strong></p>
+
+<p>2012年11月7日中午12点，方长江，孙淼，姜信宝（<a href="http://bobjiang.com">Bob Jiang</a>），<br/>
+滕振宇（<a href="http://www.danielteng.com">Daniel Teng</a>）放弃了中午午休的时间，经过一个<br/>
+小时的热烈协商，组织者队伍有了雏形。并且关键一点的是他们两位有了共同的目标 - <br/>
+提高个人在敏捷社区的知名度，同时结交知名讲师，扩大社交。</p>
+
+<p>最后的会议纪要如下：</p>
+
+<!-- more -->
+
+
+<p><strong>会议记录如下：</strong><br/>
+参会人：<br/>
+Bob Jiang (姜信宝)<br/>
+方长江<br/>
+孙淼<br/>
+Daniel Teng (滕振宇)</p>
+
+<ol>
+<li><p>场地</p>
+
+<ul>
+<li>方长江联系朋友</li>
+<li>考虑软件园做场地赞助</li>
+<li>联系王春生，去年的场地是否可以继续使用。</li>
+</ul>
+</li>
+<li><p>赞助商 （经费）<br/>
+中荷人寿 - Bob （姜信宝）跟进，并介绍给两位<br/>
+会议大致花费如下：</p>
+
+<ul>
+<li>讲师差旅费</li>
+<li>会议当天水费，零食</li>
+<li>场地免费，或有一定费用</li>
+</ul>
+</li>
+<li><p>主题，见面聊</p>
+
+<ul>
+<li>下周一 11月12日 晚上见面聊 （方长江， 孙淼）</li>
+<li>邀请王春生一起聊一下主题</li>
+</ul>
+</li>
+</ol>
+
+
+<hr />
+
+<p>其他资源：<br/>
+敏捷之旅中国网站： http://agiletour.cn<br/>
+组织者职责（如何组织敏捷之旅活动） - http://agiletour.cn/org-responsability/</p>
+]]></content>
+  </entry>
+  
+</feed>

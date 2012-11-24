@@ -4,7 +4,7 @@
   <title><![CDATA[Category: qiao liang | Bob Jiang Blog]]></title>
   <link href="http://bobjiang.github.com/blog/categories/qiao-liang/atom.xml" rel="self"/>
   <link href="http://bobjiang.github.com/"/>
-  <updated>2012-11-24T08:19:27+08:00</updated>
+  <updated>2012-11-24T08:31:41+08:00</updated>
   <id>http://bobjiang.github.com/</id>
   <author>
     <name><![CDATA[Bob Jiang]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Continuous Delivery - Jez]]></title>
+    <title type="html"><![CDATA[持续交付沙龙 - Jez]]></title>
     <link href="http://bobjiang.github.com/blog/2012/11/01/continuous-delivery-jez/"/>
     <updated>2012-11-01T22:35:00+08:00</updated>
     <id>http://bobjiang.github.com/blog/2012/11/01/continuous-delivery-jez</id>
@@ -38,6 +38,8 @@ flickr.com 每天可以发布10次以上。试想我们的软件多久可以发�
 <p>Dark launching是什么？</p>
 
 <p>发布不等于部署。 通过特性开关（feature toggle），可以讲部署好的内容进行发布，或者关闭。</p>
+
+<p>很好的持续交付的资源：<a href="www.continuousdelivery.info">持续交付网站</a></p>
 ]]></content>
   </entry>
   
