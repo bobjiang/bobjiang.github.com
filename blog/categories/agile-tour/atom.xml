@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: agile tour | Bob Jiang Blog]]></title>
+  <link href="http://bobjiang.github.com/blog/categories/agile-tour/atom.xml" rel="self"/>
+  <link href="http://bobjiang.github.com/"/>
+  <updated>2012-12-05T03:08:56+08:00</updated>
+  <id>http://bobjiang.github.com/</id>
+  <author>
+    <name><![CDATA[Bob Jiang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[敏捷之旅2012北京站总结]]></title>
+    <link href="http://bobjiang.github.com/blog/2012/12/04/agile-tour-beijing-summary/"/>
+    <updated>2012-12-04T10:49:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2012/12/04/agile-tour-beijing-summary</id>
+    <content type="html"><![CDATA[<p>敏捷之旅2012北京站总结<br/>
+12月1日是忙碌的一天，也是充实的一天。这一天敏捷之旅2012北京站落下了帷幕。自从9月9日开始，在接近三个月的紧锣密鼓的筹备后，我们（组织者）有了一个完满的结果。</p>
+
+<p>关于组织非盈利活动的一些个人感受：</p>
+
+<ol>
+<li>第一要素：钱。古语，兵马未动粮草先行就是这个道理。对于非盈利活动，寻找赞助商就是这个第一要素。</li>
+<li>设置共同的目标（vision）。这个是至关重要的，否则只是一群人在做事，而不是一个团队。（group vs team）举个例子：我们的共同目标是在12月1日办一个200人规模的敏捷之旅社区活动。</li>
+<li>建立核心团队。</li>
+<li>明确责任和权利。发挥团队的自组织和个人积极主动性。</li>
+<li>尽早确定演讲嘉宾（哪怕没有确定话题，尤其是有影响力的嘉宾，可以为活动带来人气）。</li>
+<li>宣传要在有了吸引听众内容的基础上，否则就错过了宣传的最佳效果。这一点基于上一条，需要尽早确定演讲嘉宾。</li>
+</ol>
+
+
+<hr />
+
+<p>本次敏捷之旅北京站的活动要感谢</p>
+
+<ol>
+<li>主要赞助商：<a href="http://www.outsofting.com/">OutSofting</a></li>
+<li>场地赞助商：<a href="http://www.tup.com.cn/">清华大学出版社</a></li>
+<li>媒体支持：<a href="http://headin.cn">海丁网</a>和<a href="http://www.infoq.com/cn">InfoQ中文网</a></li>
+</ol>
+
+
+<hr />
+
+<p>敏捷之旅北京的后续报道<br/>
+报道1 - <a href="http://blog.csdn.net/mebusw/article/details/8250491">来自mebusw的CSDN blog</a></p>
+]]></content>
+  </entry>
+  
+</feed>
