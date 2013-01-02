@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scrum | Bob Jiang Blog]]></title>
   <link href="http://bobjiang.github.com/blog/categories/scrum/atom.xml" rel="self"/>
   <link href="http://bobjiang.github.com/"/>
-  <updated>2012-12-18T06:32:21+08:00</updated>
+  <updated>2013-01-02T14:09:05+08:00</updated>
   <id>http://bobjiang.github.com/</id>
   <author>
     <name><![CDATA[Bob Jiang]]></name>
@@ -31,7 +31,9 @@
 <em>把“保持人员100%忙”的想法应用在运动会4×100米接力跑比赛中。基于这种想法，这个比赛看起来是非常低效的。在整个比赛过程中，运动员只跑了1/4的时间。剩下的时间他们就干站着。那么如果当他们没有拿到接力棒时，他们只在原地跑动，或许在临近的跑道跑另一场比赛？那样的话，他们就100%的在跑了。<br/>
 但是显而易见，让运动员100%的时间都在跑，是不会赢得冠军的。只有他们作为一个团队拿着接力棒第一个冲过终点线，才能获得金牌。</em></p>
 
-<p><blockquote><p>看好接力棒，而不是赛跑者</p></blockquote></p>
+<p>{% blockquote Lar-man and Vodde 2009 %}
+看好接力棒，而不是赛跑者
+{% endblockquote %}</p>
 
 <p>在产品开发过程中，接力棒停留在地上，等价于工作已经准备好可以执行了，但是需要等待必要的资源而阻塞。当接力棒在地上的时候，你不会赢得比赛（交付产品）。（接力棒和赛跑者的这个比喻非常棒，因为它非常好地诠释了我们应该观察工作而不是人。但是，像任何比喻一样，它也有局限。这个比喻中，接力赛跑方法来传递工作恰恰是传统顺序开发中我们想要避免的一个方面！）</p>
 
