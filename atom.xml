@@ -4,7 +4,7 @@
   <title><![CDATA[Bob Jiang Blog]]></title>
   <link href="http://bobjiang.github.com/atom.xml" rel="self"/>
   <link href="http://bobjiang.github.com/"/>
-  <updated>2012-12-18T06:32:21+08:00</updated>
+  <updated>2013-01-02T14:33:59+08:00</updated>
   <id>http://bobjiang.github.com/</id>
   <author>
     <name><![CDATA[Bob Jiang]]></name>
@@ -14,12 +14,67 @@
 
   
   <entry>
+    <title type="html"><![CDATA[2012 年终总结]]></title>
+    <link href="http://bobjiang.github.com/blog/2013/01/02/2012-summary/"/>
+    <updated>2013-01-02T14:26:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2013/01/02/2012-summary</id>
+    <content type="html"><![CDATA[<p>整体印象：2012年目标完成的比较差，如下图：</p>
+
+<p><img src="http://bobjiang.github.com/images/Bob-2012-perf.jpg"></p>
+
+<p>我的2012总结分为以下几个方面：</p>
+
+<ul>
+<li>健康</li>
+<li>工作</li>
+<li>家庭</li>
+<li>社交</li>
+<li>读书</li>
+<li>其他几个方面在2012年初没有做计划，就不一一总结</li>
+</ul>
+
+
+<!-- more -->
+
+
+<p><strong>健康</strong>
+这一项只能打4分，2012年初体重77kg，到了现在超过80kg了。即没有达到年初的计划减肥5kg，还继续增重这么多，不可原谅啊。<br/>
+分析：自从孩子回家后，体重呈现直线上升趋势。<br/>
+2013： 增大运动量，尤其跑步和快走为主。</p>
+
+<p><strong>工作</strong>
+工作当中主要有两大块，项目和推广敏捷。项目只能是完成预期目标，部门内推广敏捷花了比较大的力气，获得一些成果。但仍然有提高的地方。例如，工作成果没有可视化或者很好的宣传。<br/>
+分析：更多的时间花在推广敏捷上，项目开发受到影响。<br/>
+2013：在项目上花更多的时间。敏捷推广上要注意方式方法。</p>
+
+<p><strong>家庭</strong>
+2013年是值得纪念的，可爱的宝宝今年来到我们身边。尤其是极低体重的早产儿，我的爱人和家人都付出了非常大的时间和努力。<br/>
+分析：宝宝非常可爱，每天都有新变化。让我的生活丰富多彩。<br/>
+2013：除了和宝宝的爱，还要更多和爱人及家庭多沟通，多一些时间相处。</p>
+
+<p><strong>社交</strong>
+社交方面，今年认识了更多做敏捷的朋友，在敏捷社区也认识了更多各地的敏捷之旅组织者。<br/>
+Toastmaster方面，2012投入的精力比较少，在2013需要更多的参与活动。<br/>
+分析：敏捷之旅北京站的组织，给我一个非常好的锻炼机会。<br/>
+2013：更积极的参与到敏捷社区活动，敏捷中国和ScrumGathering分别投稿。</p>
+
+<p><strong>读书</strong>
+未能达到目标，读书20本，只读了12本。<br/>
+分析：宝宝的到来，占了不少的休闲时间。使读书、学习时间也变少。<br/>
+2013：新的一年，计划读书12本，集中于心理学、时间管理和敏捷相关</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Scrum的起源]]></title>
     <link href="http://bobjiang.github.com/blog/2012/12/18/scrum-origin/"/>
     <updated>2012-12-18T06:21:00+08:00</updated>
     <id>http://bobjiang.github.com/blog/2012/12/18/scrum-origin</id>
     <content type="html"><![CDATA[<p>Scrum丰富的历史可以追溯到1986年《哈佛商业评论》中的一篇文章《新型的新产品开发策略》（The New New Product Development Game，竹内弘高、野中郁次郎，1986）。这篇文章描述了像本田、佳能、富士施乐这样的公司是如何通过可伸缩、基于团队的并行产品开发方式开发出了世界一流的产品。文章同时强调了授权、自组织团队的重要性，并概要描述了管理在开发过程中发挥的作用。<br/>
 这篇发表于1986年的文章产生了很大影响，文章中提出的很多概念都促成了我们今天称为Scrum的方法的形成。Scrum不是缩写，而是一个从橄榄球运动中借用的术语，在橄榄球运动中，这个术语指的是在意外犯规或是球出界后，重新开始比赛的一种方式。就算你不是橄榄球迷，可能也看到过争球，两队的前锋球跟前围成一圈，胳膊架在一起，低着头，争夺球权。</p>
+
+<!-- more -->
+
 
 <p>竹内弘高和野中郁次郎使用橄榄球和争球的隐喻描述产品开发：</p>
 

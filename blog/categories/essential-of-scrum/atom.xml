@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Essential of Scrum | Bob Jiang Blog]]></title>
   <link href="http://bobjiang.github.com/blog/categories/essential-of-scrum/atom.xml" rel="self"/>
   <link href="http://bobjiang.github.com/"/>
-  <updated>2013-01-02T14:09:05+08:00</updated>
+  <updated>2013-01-02T14:33:59+08:00</updated>
   <id>http://bobjiang.github.com/</id>
   <author>
     <name><![CDATA[Bob Jiang]]></name>
@@ -26,9 +26,7 @@
 
 <p>竹内弘高和野中郁次郎使用橄榄球和争球的隐喻描述产品开发：</p>
 
-<p>{% blockquote 竹内弘高和野中郁次郎，The New New Product Development Game %}
-产品开发那种“接力赛”的方式……可能和最快速、最灵活的目标有冲突。如果采用一种替代的方法，一种整体方法，或者叫做“橄榄球”方法——团队作为一个整体完成比赛，来回传球——能够更好地满足当今竞争的要求。
-{% endblockquote %}</p>
+<p><blockquote><p>产品开发那种“接力赛”的方式……可能和最快速、最灵活的目标有冲突。如果采用一种替代的方法，一种整体方法，或者叫做“橄榄球”方法——团队作为一个整体完成比赛，来回传球——能够更好地满足当今竞争的要求。</p></blockquote></p>
 
 <p>1993年，Jeff Sutherland和他在Easel公司的团队把1986年那篇文章中的概念与面向对象开发、基于经验的过程控制、迭代和增量开发、软件过程和生产率研究、复杂适应系统中的概念结合起来，创建了用于软件开发工作的Scrum过程。1995年，Ken Schwaber在OOPSLA 1995 （Schwaber 1995）上发表了第一篇关于Scrum的论文。此后，Schwaber和Sutherland，一起或是独自完成了几个关于Scrum的出版物，包括Agile Software Development with Scrum （Schwaber与Beedle，2001）、Agile Project Management with Scrum（Schwaber 2004）和《Scrum指南》（“The Scrum Guide”，Schwaber与Sutherland，2011）。</p>
 
