@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Process Group | Bob Jiang Blog]]></title>
   <link href="http://bobjiang.github.com/blog/categories/process-group/atom.xml" rel="self"/>
   <link href="http://bobjiang.github.com/"/>
-  <updated>2013-01-05T09:37:28+08:00</updated>
+  <updated>2013-01-05T11:49:35+08:00</updated>
   <id>http://bobjiang.github.com/</id>
   <author>
     <name><![CDATA[Bob Jiang]]></name>
@@ -18,9 +18,7 @@
     <link href="http://bobjiang.github.com/blog/2013/01/05/translating-pmbok-concepts/"/>
     <updated>2013-01-05T08:57:00+08:00</updated>
     <id>http://bobjiang.github.com/blog/2013/01/05/translating-pmbok-concepts</id>
-    <content type="html"><![CDATA[<h1>通用PMBOK概念转化为敏捷概念</h1>
-
-<h2>PMBOK基本过程组和它们对应的敏捷概念</h2>
+    <content type="html"><![CDATA[<h2>PMBOK基本过程组和它们对应的敏捷概念</h2>
 
 <h3>启动过程 vs 章程（charting）</h3>
 
