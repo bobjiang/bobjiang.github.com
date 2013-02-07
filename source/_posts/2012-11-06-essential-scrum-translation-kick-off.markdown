@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Essential Scrum Translation Kick-off"
+title: "Scrum精髓翻译工作启动"
 date: 2012-11-06 13:33
 comments: true
-categories: 
+categories:  [ scrum, essential scrum, book ]
 ---
 
 Essential Scrum一书的翻译团队终于组建完成，成员分别是姜信宝 左洪斌 米全喜
@@ -11,6 +11,7 @@ Essential Scrum一书的翻译团队终于组建完成，成员分别是姜信�
 
 下一步工作，文老师计划两周时间完成前三章60页，团队如何分工是一个挑战。 有如下几个方案：
 
+<!-- more -->
 
 - 每人一章。**优点**：比较完整一部分。 **缺点**：每章页数不一，并且每人翻译风格不统一，会导致连续性变差。
 

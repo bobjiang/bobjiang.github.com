@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Bob Jiang Blog]]></title>
+<<<<<<< HEAD
   <link href="http://bobjiang.com/atom.xml" rel="self"/>
   <link href="http://bobjiang.com/"/>
   <updated>2012-11-08T14:07:14+08:00</updated>
   <id>http://bobjiang.com/</id>
+=======
+  <link href="http://bobjiang.github.com/atom.xml" rel="self"/>
+  <link href="http://bobjiang.github.com/"/>
+  <updated>2012-11-24T08:44:10+08:00</updated>
+  <id>http://bobjiang.github.com/</id>
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
   <author>
     <name><![CDATA[Bob Jiang]]></name>
     
@@ -14,6 +21,7 @@
 
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[AgileTour Qingdao 2012 kick-off]]></title>
     <link href="http://bobjiang.com/blog/2012/11/08/agiletour-qingdao-2012-kick-off/"/>
     <updated>2012-11-08T14:00:00+08:00</updated>
@@ -27,24 +35,86 @@
 <p>最后的会议纪要如下：</p>
 
 <p>会议记录如下：
+=======
+    <title type="html"><![CDATA[闲置员工和闲置工作，哪个浪费更大？]]></title>
+    <link href="http://bobjiang.github.com/blog/2012/11/24/idle-worker-vs-idle-work/"/>
+    <updated>2012-11-24T07:34:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2012/11/24/idle-worker-vs-idle-work</id>
+    <content type="html"><![CDATA[<p>闲置的工作浪费大，还是闲置的员工浪费更大？</p>
+
+<p>从传统意义上来看，普遍认为闲置的员工是更大的浪费。作为老板，既然我花钱雇佣你，那么你就应该100%的时间在工作。&#8211;我猜想这是老板的普遍行为。</p>
+
+<!-- more -->
+
+
+<p>不幸的是，这种方法降低了一种形式的浪费（闲置人员的浪费），而与此同时增加了另一种形式的浪费（闲置工作的浪费）。而且，大多数时间，闲置工作的成本要远高于闲置人员的成本。</p>
+
+<p>下面我们来举个例子：<br/>
+<em>把“保持人员100%忙”的想法应用在运动会4×100米接力跑比赛中。基于这种想法，这个比赛看起来是非常低效的。在整个比赛过程中，运动员只跑了1/4的时间。剩下的时间他们就干站着。那么如果当他们没有拿到接力棒时，他们只在原地跑动，或许在临近的跑道跑另一场比赛？那样的话，他们就100%的在跑了。<br/>
+但是显而易见，让运动员100%的时间都在跑，是不会赢得冠军的。只有他们作为一个团队拿着接力棒第一个冲过终点线，才能获得金牌。</em></p>
+
+<blockquote><p>看好接力棒，而不是赛跑者</p></blockquote>
+
+
+<p>在产品开发过程中，接力棒停留在地上，等价于工作已经准备好可以执行了，但是需要等待必要的资源而阻塞。当接力棒在地上的时候，你不会赢得比赛（交付产品）。（接力棒和赛跑者的这个比喻非常棒，因为它非常好地诠释了我们应该观察工作而不是人。但是，像任何比喻一样，它也有局限。这个比喻中，接力赛跑方法来传递工作恰恰是传统顺序开发中我们想要避免的一个方面！）</p>
+
+<p>同时每个人都知道100%利用资源的危害。<br/>
+<em>再说一个简单的例子，我们的电脑CPU或者内存如果100%在工作，那么我们可能什么也干不了。这个时候电脑慢的像一头老蜗牛（处理每个任务都是非常低效的）。</em></p>
+
+<p>一旦员工100%利用起来（没有闲置的员工），这个时候闲置的工作就会呈指数级增长。而实际上闲置的工作成本比闲置人员更加昂贵，因此在Scrum中我们要清醒的认识到如何去除工作流中的瓶颈。</p>
+
+<p><strong>让工作真正流动起来，而不是让员工忙起来！</strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[敏捷之旅青岛 2012 启动]]></title>
+    <link href="http://bobjiang.github.com/blog/2012/11/08/agiletour-qingdao-2012-kick-off/"/>
+    <updated>2012-11-08T14:00:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2012/11/08/agiletour-qingdao-2012-kick-off</id>
+    <content type="html"><![CDATA[<p><strong>敏捷之旅青岛站的组织活动启动了。</strong></p>
+
+<p>2012年11月7日中午12点，方长江，孙淼，姜信宝（<a href="http://bobjiang.com">Bob Jiang</a>），<br/>
+滕振宇（<a href="http://www.danielteng.com">Daniel Teng</a>）放弃了中午午休的时间，经过一个<br/>
+小时的热烈协商，组织者队伍有了雏形。并且关键一点的是他们两位有了共同的目标 - <br/>
+提高个人在敏捷社区的知名度，同时结交知名讲师，扩大社交。</p>
+
+<p>最后的会议纪要如下：</p>
+
+<!-- more -->
+
+
+<p><strong>会议记录如下：</strong><br/>
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
 参会人：<br/>
 Bob Jiang (姜信宝)<br/>
 方长江<br/>
 孙淼<br/>
 Daniel Teng (滕振宇)</p>
 
+<<<<<<< HEAD
 <p>场地</p>
+=======
+<ol>
+<li><p>场地</p>
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
 
 <ul>
 <li>方长江联系朋友</li>
 <li>考虑软件园做场地赞助</li>
 <li>联系王春生，去年的场地是否可以继续使用。</li>
 </ul>
+<<<<<<< HEAD
 
 
 <p>赞助商 （经费）</p>
 
 <p>中荷人寿 - Bob （姜信宝）跟进，并介绍给两位<br/>
+=======
+</li>
+<li><p>赞助商 （经费）<br/>
+中荷人寿 - Bob （姜信宝）跟进，并介绍给两位<br/>
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
 会议大致花费如下：</p>
 
 <ul>
@@ -52,6 +122,7 @@ Daniel Teng (滕振宇)</p>
 <li>会议当天水费，零食</li>
 <li>场地免费，或有一定费用</li>
 </ul>
+<<<<<<< HEAD
 
 
 <p>主题，见面聊<br/>
@@ -65,19 +136,50 @@ Daniel Teng (滕振宇)</p>
 <p>敏捷之旅中国网站： http://agiletour.cn</p>
 
 <p>组织者职责（如何组织敏捷之旅活动） - http://agiletour.cn/org-responsability/</p>
+=======
+</li>
+<li><p>主题，见面聊</p>
+
+<ul>
+<li>下周一 11月12日 晚上见面聊 （方长江， 孙淼）</li>
+<li>邀请王春生一起聊一下主题</li>
+</ul>
+</li>
+</ol>
+
+
+<hr />
+
+<p>其他资源：<br/>
+敏捷之旅中国网站： http://agiletour.cn<br/>
+组织者职责（如何组织敏捷之旅活动） - http://agiletour.cn/org-responsability/</p>
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
 ]]></content>
   </entry>
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Essential Scrum Translation Kick-off]]></title>
     <link href="http://bobjiang.com/blog/2012/11/06/essential-scrum-translation-kick-off/"/>
     <updated>2012-11-06T13:33:00+08:00</updated>
     <id>http://bobjiang.com/blog/2012/11/06/essential-scrum-translation-kick-off</id>
+=======
+    <title type="html"><![CDATA[Scrum精髓翻译工作启动]]></title>
+    <link href="http://bobjiang.github.com/blog/2012/11/06/essential-scrum-translation-kick-off/"/>
+    <updated>2012-11-06T13:33:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2012/11/06/essential-scrum-translation-kick-off</id>
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
     <content type="html"><![CDATA[<p>Essential Scrum一书的翻译团队终于组建完成，成员分别是姜信宝 左洪斌 米全喜
 耿倩。在此之前我和左洪斌做了一些前期工作，翻译词汇表，也得到了文老师的积极反馈，反馈意见非常实用。 并且也有了参考依据。</p>
 
 <p>下一步工作，文老师计划两周时间完成前三章60页，团队如何分工是一个挑战。 有如下几个方案：</p>
 
+<<<<<<< HEAD
+=======
+<!-- more -->
+
+
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
 <ul>
 <li><p>每人一章。<strong>优点</strong>：比较完整一部分。 <strong>缺点</strong>：每章页数不一，并且每人翻译风格不统一，会导致连续性变差。</p></li>
 <li><p>每人固定页数。<strong>优点</strong>： 工作量固定。<strong>缺点</strong>：连续性更差。</p></li>
@@ -93,15 +195,28 @@ Daniel Teng (滕振宇)</p>
   </entry>
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Continuous Delivery - Jez]]></title>
     <link href="http://bobjiang.com/blog/2012/11/01/continuous-delivery-jez/"/>
     <updated>2012-11-01T22:35:00+08:00</updated>
     <id>http://bobjiang.com/blog/2012/11/01/continuous-delivery-jez</id>
+=======
+    <title type="html"><![CDATA[持续交付沙龙 - Jez]]></title>
+    <link href="http://bobjiang.github.com/blog/2012/11/01/continuous-delivery-jez/"/>
+    <updated>2012-11-01T22:35:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2012/11/01/continuous-delivery-jez</id>
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
     <content type="html"><![CDATA[<p>10月29日晚，很高兴参加了“AgileChina Salon - 持续交付” （http://event.weibo.com/636715） 这次活动邀请到了《持续交付》一书的作者， Jez Humble。 能够近距离的和大牛交流，很兴奋啊。</p>
 
 <p>引子
 flickr.com 每天可以发布10次以上。试想我们的软件多久可以发布。</p>
 
+<<<<<<< HEAD
+=======
+<!-- more -->
+
+
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
 <p>持续交付需要频繁发布（releasing frequently）
 但是频繁发布，包含哪些内容：
 1. 构建正确的内容 - build the right thing
@@ -114,20 +229,38 @@ flickr.com 每天可以发布10次以上。试想我们的软件多久可以发�
 <p>Dark launching是什么？</p>
 
 <p>发布不等于部署。 通过特性开关（feature toggle），可以讲部署好的内容进行发布，或者关闭。</p>
+<<<<<<< HEAD
+=======
+
+<p>很好的持续交付的资源：<a href="www.continuousdelivery.info">持续交付网站</a></p>
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
 ]]></content>
   </entry>
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[blog setup]]></title>
     <link href="http://bobjiang.com/blog/2012/10/27/blog-setup/"/>
     <updated>2012-10-27T22:33:00+08:00</updated>
     <id>http://bobjiang.com/blog/2012/10/27/blog-setup</id>
+=======
+    <title type="html"><![CDATA[我的博客起航了]]></title>
+    <link href="http://bobjiang.github.com/blog/2012/10/27/blog-setup/"/>
+    <updated>2012-10-27T22:33:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2012/10/27/blog-setup</id>
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
     <content type="html"><![CDATA[<p>我的github博客终于建好了，其中磕磕绊绊了很久，纠缠很长时间的一个问题是“git push 的时候 ssh.exe崩溃”</p>
 
 <p>解决方案很简单： 右键ssh.exe，选择兼容性，选择“Windows XP Service Pack 2”</p>
 
 <p>其他的过程就不一一废话了，给出一个简要列表：</p>
 
+<<<<<<< HEAD
+=======
+<!-- more -->
+
+
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
 <ul>
 <li>github申请账号(<a href="http://www.github.com" title="GitHub">http://www.github.com</a>)，创建一个repository名字为 <your account>.github.com</li>
 <li>下载安装railsinstaller</li>
@@ -141,6 +274,7 @@ flickr.com 每天可以发布10次以上。试想我们的软件多久可以发�
   </entry>
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Contact Me]]></title>
     <link href="http://bobjiang.com/blog/2012/10/27/contact-me/"/>
     <updated>2012-10-27T20:27:00+08:00</updated>
@@ -152,6 +286,25 @@ jiangxb@gmail.com</p>
 <p><img src="http://flic.kr/s/aHsjwx7CTw"></p>
 
 <hr />
+=======
+    <title type="html"><![CDATA[Bob Jiang的简历]]></title>
+    <link href="http://bobjiang.github.com/blog/2012/10/27/contact-bob-jiang/"/>
+    <updated>2012-10-27T20:27:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2012/10/27/contact-bob-jiang</id>
+    <content type="html"><![CDATA[<p>姜信宝 （Bob Jiang）<br/>
+我的简历<a href="http://www.linkedin.com/pub/bob-jiang/23/2b8/5a8">LinkedIn</a></p>
+
+<!-- more -->
+
+
+<p>任职爱立信,CSM,PMP,敏捷教练<br/>
+热衷敏捷,参与组织敏捷之旅 2011,2012北京站活动。<br/>
+在公司内致力于组织转型，对可视化管理、组织转型、演讲培训等兴趣浓厚。<br/>
+新浪微博:@姜信宝Bob<br/>
+jiangxb@gmail.com</p>
+
+<p><img src="http://bobjiang.github.com/images/me.jpg"></p>
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
 ]]></content>
   </entry>
   

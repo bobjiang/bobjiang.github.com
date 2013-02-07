@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+<<<<<<< HEAD
         <loc>http://bobjiang.com/blog/2012/10/27/contact-me/</loc>
         <lastmod>2012-11-03T09:47:56+08:00</lastmod>
     </url>
@@ -27,5 +28,39 @@
     <url>
         <loc>http://bobjiang.com/</loc>
         <lastmod>2012-11-08T14:07:13+08:00</lastmod>
+=======
+        <loc>http://bobjiang.github.com/blog/2012/10/27/contact-bob-jiang/</loc>
+        <lastmod>2012-11-24T07:30:18+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bobjiang.github.com/blog/2012/10/27/blog-setup/</loc>
+        <lastmod>2012-11-24T08:26:28+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bobjiang.github.com/blog/2012/11/01/continuous-delivery-jez/</loc>
+        <lastmod>2012-11-24T08:29:46+08:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://bobjiang.github.com/blog/2012/11/06/essential-scrum-translation-kick-off/
+        </loc>
+        <lastmod>2012-11-24T08:30:20+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bobjiang.github.com/blog/2012/11/08/agiletour-qingdao-2012-kick-off/</loc>
+        <lastmod>2012-11-24T08:31:18+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bobjiang.github.com/blog/2012/11/24/idle-worker-vs-idle-work/</loc>
+        <lastmod>2012-11-24T08:43:56+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bobjiang.github.com/blog/archives/</loc>
+        <lastmod>2012-11-24T08:43:56+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bobjiang.github.com/</loc>
+        <lastmod>2012-11-24T08:43:56+08:00</lastmod>
+>>>>>>> e796ef91869d81c3dfb23a5e40b9cde31c93eb6a
     </url>
 </urlset>
