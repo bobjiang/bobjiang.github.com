@@ -9,7 +9,7 @@ Today I read a monthly news from Mike Cohn, and it is very interesting. Should w
 
 I've decided we should kick all the testers out of sprint retrospectives. We don't need them. They aren't really part of the team, anyway. They think differently and their issues aren't really the same issues faced by the real team.
 
-![2013-02-07-keep-testers-out-of-retrospective](/img/2013-02-07-keep-testers-out-of-retrospective.png)
+{% img /images/keepout.jpg %}
 
 <!-- more -->
 
