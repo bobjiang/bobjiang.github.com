@@ -1,18 +1,20 @@
 ---
 layout: post
-title: "询问的力量： 敏捷教练小提示 - 第一部分"
+title: "询问的力量(ScrumMasters与敏捷教练系列)： 敏捷教练小提示 - 第一部分"
 date: 2013-02-11 07:32
 comments: true
 categories: [ agile, agile coach, coach, coaching, self organizing, power of inquiry, Ken Schwaber, Jeff Sutherlan, Scrum Guide, agile tour ]
 ---
 
-{% img /images/sm_and_coaching.jpg %}
+{% img /images/sm_and_coaching-p1.jpg %}
 
 "询问的力量：敏捷教练小提示"是我在印度金奈2012敏捷之旅的keynote演讲主题。我写这篇博客分享我的演讲重点。
 
 我们先看看“询问”这个词。询问意思是探索、探查、调查、检查、分析、审查或者询问。它是关于搜索某事的信息或者做正式的研究。询问时教练辅导有力方式之一。敏捷教练与ScrumMasters可以通过理解询问的力量获得对团队正向的影响。
 
 有效的询问包括有力的问题。我们可以学习到问问题的重要性或者询问的力量，爱因斯坦曾经说过-“如果我有一个小时解决问题，我的人生就依赖于解决方案，我会先花55分钟确定恰当的问题，因为一旦我知道了正确的问题，我会在五分钟内解决问题。”
+
+<!-- more -->
 
 在Dorothy Leeds的书《The 7 Powers of Questions》中说到，“问题  1）需要答案，2）激发思考，3）让我们可控，4）使人们开创，5）给出有价值的信息，6）引导有质量的聆听，7）使人们说服自己。”
 
@@ -50,8 +52,8 @@ categories: [ agile, agile coach, coach, coaching, self organizing, power of inq
 
 ---
 [Scrummasters与敏捷教练系列（开篇）](http://bobjiang.com/blog/2013/02/10/scrummaster-and-coach-opening/)  
-询问的力量： 敏捷教练小提示 - 第一部分  
-询问的力量： 敏捷教练小提示 - 第二部分  
+[询问的力量： 敏捷教练小提示 - 第一部分](http://bobjiang.com/blog/2013/02/11/scrummaster-and-coaching-part1/)  
+[询问的力量： 敏捷教练小提示 - 第二部分](http://bobjiang.com/blog/2013/02/12/scrummaster-and-coaching-part2/)  
 询问的力量： 敏捷教练小提示 - 第三部分  
 询问的力量： 敏捷教练小提示 - 第四部分  
 

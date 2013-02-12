@@ -1,4 +1,21 @@
 <div class="sharing">
+	{% if site.jiathis %}
+<!-- JiaThis Button BEGIN -->
+<div class="jiathis_style">
+	<span class="jiathis_txt"></span>
+	<a class="jiathis_button_tsina">新浪微博</a>
+	<a class="jiathis_button_qzone">QQ空间</a>
+	<a class="jiathis_button_tqq">腾讯微博</a>
+	<a class="jiathis_button_renren">人人网</a>
+	<a href="http://www.jiathis.com/share?uid={{ site.jiathis_share_id}}" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank">更多</a>
+	<a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript">
+var jiathis_config = {data_track_clickback:'true'};
+</script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid={{ site.jiathis_t_id }}" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+	{% endif %}
   {% if site.weibo_share %}
   <span>
   <iframe 

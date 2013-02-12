@@ -8,7 +8,7 @@ subtitle: A passionate man focus on non-profit activity.
 author: Bob Jiang
 simple_search: http://google.com/search
 description: Focus on Agile & Lean (in special Scrum); other non-profit activity like toastmaster (专注敏捷,Scrum,精益,以及其他非盈利活动，比如头马,土司马斯。)
-keywords: Agile , Lean , Scrum , toastmaster , public speaking , java , github , octopress
+keywords: Agile , Lean , Scrum , toastmaster , public speaking , java , github , octopress , coaching , coach , Bob Jiang
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -99,7 +99,7 @@ google_analytics_tracking_id: UA-36175470-1
 # Facebook Like
 facebook_like: false
 
-# Weibo
+# Weibo sidebar and share button (share the same config variables, except weibo_share)
 # Please refer to http://weibo.com/tool/weiboshow to get your uid and verifier. 
 weibo_uid: 1559961235
 weibo_verifier: 0c2cdcf8
@@ -107,17 +107,10 @@ weibo_fansline: 1   # How many lines for the fan list
 weibo_show: true    # Whether you want your weibo content to be shown
 weibo_pic: true     # Whether you want the pictures in weibo to be shown
 weibo_skin: 2      # Please refer to http://weibo.com/tool/weiboshow
-weibo_share: true   # Whether show the sharing button
+weibo_share: false   # Whether show the sharing button
 
- 
-# weibo show
- 
-# Please refer to http://weibo.com/tool/weiboshow to get your uid and verifier. 
-weibo_uid: 1559961235
-weibo_verifier: 0c2cdcf8
-weibo_fansline: 2   # How many lines for the fan list
-weibo_show: true    # Whether you want your weibo content to be shown
-weibo_pic: true     # Whether you want the pictures in weibo to be shown
-weibo_skin: 2      # Please refer to http://weibo.com/tool/weiboshow
- 
-# weibo show sidebar
+# jiathis share
+jiathis: true   # 
+jiathis_share_id: 1741402
+jiathis_t_id: 1354711817348150
+# jiathis share end

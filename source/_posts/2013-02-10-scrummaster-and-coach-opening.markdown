@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scrummasters与敏捷教练系列（开篇）"
+title: "ScrumMasters与敏捷教练系列（开篇）"
 date: 2013-02-10 07:31
 comments: true
 categories: [ agile, agile coach, coach, coaching, self organizing, power of inquiry, Ken Schwaber, Jeff Sutherlan, Scrum Guide, agile tour ]
@@ -57,14 +57,13 @@ Sailesh离开了会议室。Jim找我聊了一会儿。我们谈到两个选择�
 
 想要了解更多，请阅读 “询问的力量：敏捷教练小提示”系列
 备注：为了保密，故事里的采用的是化名。
-询问的力量：敏捷教练小提示--第一部分 (todo: 下一篇的链接)
 
 ---
 [Scrummasters与敏捷教练系列（开篇）](http://bobjiang.com/blog/2013/02/10/scrummaster-and-coach-opening/)  
-询问的力量： 敏捷教练小提示 - 第一部分  
-询问的力量： 敏捷教练小提示 - 第二部分  
+[询问的力量： 敏捷教练小提示 - 第一部分](http://bobjiang.com/blog/2013/02/11/scrummaster-and-coaching-part1/)  
+[询问的力量： 敏捷教练小提示 - 第二部分](http://bobjiang.com/blog/2013/02/12/scrummaster-and-coaching-part2/)  
 询问的力量： 敏捷教练小提示 - 第三部分  
 询问的力量： 敏捷教练小提示 - 第四部分  
 
-----
+---
 原文链接 [http://se-thoughtograph.blogspot.in/2012/10/scrum-masters-and-coaching.html](http://se-thoughtograph.blogspot.in/2012/10/scrum-masters-and-coaching.html)
