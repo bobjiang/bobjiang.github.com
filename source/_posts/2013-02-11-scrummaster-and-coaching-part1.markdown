@@ -54,8 +54,8 @@ categories: [ agile, agile coach, coach, coaching, self organizing, power of inq
 [Scrummasters与敏捷教练系列（开篇）](http://bobjiang.com/blog/2013/02/10/scrummaster-and-coach-opening/)  
 [询问的力量： 敏捷教练小提示 - 第一部分](http://bobjiang.com/blog/2013/02/11/scrummaster-and-coaching-part1/)  
 [询问的力量： 敏捷教练小提示 - 第二部分](http://bobjiang.com/blog/2013/02/12/scrummaster-and-coaching-part2/)  
-询问的力量： 敏捷教练小提示 - 第三部分  
-询问的力量： 敏捷教练小提示 - 第四部分  
+[询问的力量： 敏捷教练小提示 - 第三部分](http://bobjiang.com/blog/2013/02/13/scrummaster-and-coaching-part3/)  
+[询问的力量： 敏捷教练小提示 - 第四部分](http://bobjiang.com/blog/2013/02/14/scrummaster-and-coaching-part4/)  
 
 ---
 [原文链接](http://se-thoughtograph.blogspot.in/2012/10/the-power-of-inquiry-coaching-tips-for.html)
