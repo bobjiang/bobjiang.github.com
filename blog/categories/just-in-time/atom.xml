@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: just in time | Bob Jiang Blog]]></title>
+  <link href="http://bobjiang.github.com/blog/categories/just-in-time/atom.xml" rel="self"/>
+  <link href="http://bobjiang.github.com/"/>
+  <updated>2013-02-19T12:04:59+08:00</updated>
+  <id>http://bobjiang.github.com/</id>
+  <author>
+    <name><![CDATA[Bob Jiang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[KANBAN 的六个原则]]></title>
+    <link href="http://bobjiang.github.com/blog/2013/02/19/kanban-6-principles/"/>
+    <updated>2013-02-19T09:35:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2013/02/19/kanban-6-principles</id>
+    <content type="html"><![CDATA[<p><img src="/images/toyota.jpg"></p>
+
+<p>KANBAN的基本原则如下（来自丰田生产方式）</p>
+
+<ol>
+<li>Do not send defective products to the subsequent process<br/>
+有缺陷的产品不送往后工序</li>
+<li>The subsequent process withdraws only what is needed<br/>
+后工序只有必要的时候，才向前工序领取必要数量的零部件</li>
+<li>Produce only the exact quantity withdrawn by the subsequent process<br/>
+前工序应该只生产后工序领取的数量</li>
+<li>Level the production<br/>
+平均化生产</li>
+<li>KANBAN is a means of fine tuning<br/>
+KANBAN是微调的手段</li>
+<li>Stabilize and rationalize the process<br/>
+使各工序稳定化与合理化</li>
+</ol>
+
+
+<p>对应到软件开发中，如何使用KANBAN原则呢？</p>
+
+<hr />
+
+<p>待续</p>
+]]></content>
+  </entry>
+  
+</feed>
