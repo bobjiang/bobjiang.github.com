@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: reading | Bob Jiang Blog]]></title>
+  <link href="http://bobjiang.github.com/blog/categories/reading/atom.xml" rel="self"/>
+  <link href="http://bobjiang.github.com/"/>
+  <updated>2013-02-22T15:42:33+08:00</updated>
+  <id>http://bobjiang.github.com/</id>
+  <author>
+    <name><![CDATA[Bob Jiang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[《精益创业》读书笔记]]></title>
+    <link href="http://bobjiang.github.com/blog/2013/02/22/reading-for-lean-startup/"/>
+    <updated>2013-02-22T15:06:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2013/02/22/reading-for-lean-startup</id>
+    <content type="html"><![CDATA[<p><img src="/images/lean_startup.png"></p>
+
+<p>我最喜欢的一句话</p>
+
+<p><strong>成功的执行一项无意义的计划<br/>
+是导致失败的致命原因<br/>
+如果企业费尽心思开发出来的产品没人想要，<br/>
+那么是否按时、按预算完成计划就无关紧要了。</strong></p>
+
+<p>精益创业使用来自丰田生产方式的精益思想来指导创业活动，避免在创业活动中的巨大浪费。</p>
+
+<p>精益创业是一个关于“开发-测量-认知”的反馈循环，不断的开发，然后进行测试测量，得到一些认知，根据学习到的知识进行下一轮的开发。</p>
+
+<p>精益创业首先有一个关于“价值的假设”，然后推出一个最小可行产品（MVP）进行假设的验证。</p>
+
+<p>书里提到许多例子，比较典型的有两个：</p>
+
+<ol>
+<li>印度乡村洗衣服务</li>
+<li>美国最大的网上鞋店Zappos</li>
+</ol>
+
+
+<p>价值假设得到验证后，下一步关于增长的假设需要得到很高的关注。书内提到传统的衡量指标（虚荣指标），有比较大的欺骗性，比如总用户数，总浏览量，总点击数。如果网站今天的总浏览量为2万，那么这些浏览量来自一个用户，还是2000个新用户呢？</p>
+
+<p>关于增长假设，书中提到两个比较好的验证方法：</p>
+
+<ol>
+<li><a href="http://en.wikipedia.org/wiki/Cohort_study">同期群分析</a></li>
+<li>对比测试</li>
+</ol>
+
+
+<p>在各种验证假设后，得到的报告、报表中，衡量指标要符合三个“可”的标准</p>
+
+<ul>
+<li>可执行：指标简单易懂</li>
+<li>可使用：指标具有指导意义</li>
+<li>可审查：数据来源可信</li>
+</ul>
+
+
+<!-- more -->
+
+
+<p>如果假设验证失败，那么面临一个选择，是继续坚持当前的假设，还是做出转型。如果要转型，都有哪些转型，下面是书中提到的一些转型方法：</p>
+
+<ul>
+<li>放大转型</li>
+<li>缩小转型</li>
+<li>客户细分市场转型</li>
+<li>客户需求转型 - 200多家连锁的大肚三明治（Potbelly Sandwich Shop） 1997年开办时是一家古董店。为了吸引更多顾客到店里，店主开始售卖三明治。</li>
+<li>平台转型</li>
+<li>商业架构转型 - 摩尔理论。公司一般会在两种主要商业架构选其一：高利润低产量；或低利润高产量。前者经常和B2B或者企业销售流程相关；后者与消费类产品相关</li>
+<li>价值获取转型</li>
+<li>增长引擎转型 - 病毒式、黏着式、付费式</li>
+<li>渠道转型</li>
+<li>技术转型</li>
+</ul>
+
+
+<hr />
+
+<p>在当今的市场环境下，如果你跑的比市场慢，那么很快就会被淘汰。<br/>
+所以除了验证价值假设和增长假设，还有一个很重要的关键点就是加速创业公司的发展。<br/>
+公司发展大致分为三类增长引擎（模式）：</p>
+
+<ol>
+<li>黏着式 - 客户一旦用了产品后，很难换成竞争对手的</li>
+<li>病毒式 - 依赖现有用户的口碑宣传，影响其他人加入</li>
+<li>付费式 - 依赖付费的方式增加新客户，比如广告</li>
+</ol>
+
+
+<p>最后再介绍两个精益中比较好的理念：</p>
+
+<ol>
+<li>小批量</li>
+<li>五个为什么</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
