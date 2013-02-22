@@ -4,7 +4,7 @@
   <title><![CDATA[Bob Jiang Blog]]></title>
   <link href="http://bobjiang.github.com/atom.xml" rel="self"/>
   <link href="http://bobjiang.github.com/"/>
-  <updated>2013-02-22T15:42:33+08:00</updated>
+  <updated>2013-02-23T06:49:29+08:00</updated>
   <id>http://bobjiang.github.com/</id>
   <author>
     <name><![CDATA[Bob Jiang]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[a cup of water]]></title>
+    <link href="http://bobjiang.github.com/blog/2013/02/23/a-cup-of-water/"/>
+    <updated>2013-02-23T06:45:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2013/02/23/a-cup-of-water</id>
+    <content type="html"><![CDATA[<p><img src="http://bobjiang.github.com/images/a_cup_of_water.jpg"></p>
+
+<p>有一位讲师正在给学生们上课，大家都认真地听着。寂静的教室里传出一个浑厚的声音：“各位认为这杯水有多重？”说着，讲师拿起一杯水。有人说二百克，也有人说三百克。“是的，它只有二百克。那么，你们可以将这杯水端在手中多久？”讲师又问。很多人都笑了：二百克而已，拿多久又会怎么样！</p>
+
+<p>讲师没有笑，他接着说：“拿一分钟，各位一定觉得没问题；拿一个小时，可能觉得手酸；拿一天呢？一个星期呢？那可能得叫救护车了。”大家又笑了，不过这回是赞同的笑。</p>
+
+<p>讲师继续说道：“其实这杯水的重量很轻，但是你拿得越久，就觉得越沉重。这如同把压力放在身上，不管压力是否很重，时间长了就会觉得越来越沉重而无法承担。我们必须做的是放下这杯水，休息一下后再拿起，只有这样我们才能拿得更久。所以，我们所承担的压力，应该在适当的时候放下，然后再重新拿起来，如此才可承担更久。”</p>
+
+<p>说完，教室里一片掌声。</p>
+
+<p><strong>启示：</strong></p>
+
+<p>学会调整心态是取得成功的关键。文明的同时也带来不同的负效应，社会进步的同时也催生了沉重的压力。许多人不堪重负走向极端的屡见不鲜。这个时候，要学会释压。一直背负压力必然走不远。最好的释压方式就是调整心态，适当的时候放下负担，该放手时放手，该承担时承担，好好地休息一下，把心态调整到最佳，才能走得更远。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[《精益创业》读书笔记]]></title>
@@ -988,21 +1009,6 @@ flickr.com 每天可以发布10次以上。试想我们的软件多久可以发�
 
 
 <p>有问题，欢迎大家一起讨论。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Contact Me]]></title>
-    <link href="http://bobjiang.github.com/blog/2012/10/27/contact-me/"/>
-    <updated>2012-10-27T20:27:00+08:00</updated>
-    <id>http://bobjiang.github.com/blog/2012/10/27/contact-me</id>
-    <content type="html"><![CDATA[<p>姜信宝 （Bob Jiang）
-任职爱立信， CSM, PMP，热衷敏捷，曾参与组织敏捷之旅 2011北京站活动。在公司内致力于组织转型，对可视化管理、组织转型、演讲培训等兴趣浓厚。 新浪微博 @ 姜信宝Bob
-jiangxb@gmail.com</p>
-
-<p><img src="http://flic.kr/s/aHsjwx7CTw"></p>
-
-<hr />
 ]]></content>
   </entry>
   
