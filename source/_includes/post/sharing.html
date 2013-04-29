@@ -1,32 +1,4 @@
 <div class="sharing">
-	{% if site.jiathis %}
-<!-- JiaThis Button BEGIN -->
-<div class="jiathis_style">
-	<a class="jiathis_button_tsina">新浪微博</a>
-	<a class="jiathis_button_qzone">QQ空间</a>
-	<a class="jiathis_button_tqq">腾讯微博</a>
-	<a class="jiathis_button_renren">人人网</a>
-	<a href="http://www.jiathis.com/share?uid={{ site.jiathis_share_id}}" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank">更多</a>
-	<a class="jiathis_counter_style"></a>
-</div>
-<script type="text/javascript">
-var jiathis_config = {data_track_clickback:'true'};
-</script>
-<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid={{ site.jiathis_t_id }}" charset="utf-8"></script>
-<!-- JiaThis Button END -->
-	{% endif %}
-  {% if site.weibo_share %}
-  <span>
-  <iframe 
-    width="86" 
-    scrolling="no" 
-    height="16" 
-    frameborder="0" 
-    src=
-      "http://hits.sinajs.cn/A1/weiboshare.html?url={{ site.url }}{{ page.url }}&amp;type=6&amp;{% if site.weibo_uid %}ralateUid={{ site.weibo_uid }}&amp;{% endif %}language=zh_cn" allowtransparency="true">
-  </iframe>
-  </span>
-  {% endif %}
   {% if site.twitter_tweet_button %}
   <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ page.url }}" data-via="{{ site.twitter_user }}" data-counturl="{{ site.url }}{{ page.url }}" >Tweet</a>
   {% endif %}
@@ -37,5 +9,3 @@ var jiathis_config = {data_track_clickback:'true'};
     <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
   {% endif %}
 </div>
-
-<hr style="border-bottom:1px dotted #bdbabd;height:1px;border-top:0px;border-left:0px;border-right:0px;" />
