@@ -1,7 +1,7 @@
 source "http://ruby.taobao.org"
 
 group :development do
-  gem 'rake', '~> 0.9.2'
+  gem 'rake', '~> 10.0.4'
   gem 'rack', '~> 1.4.1'
   gem 'jekyll', '~> 0.11.2'
   gem 'rdiscount', '~> 1.6.8'
@@ -16,3 +16,4 @@ group :development do
 end
 
 gem 'sinatra', '~> 1.3.2'
+gem "faraday", "~> 0.8.4"
