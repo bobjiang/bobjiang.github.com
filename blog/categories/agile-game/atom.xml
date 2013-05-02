@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Agile Game | Bob Jiang Blog]]></title>
+  <link href="http://bobjiang.github.com/blog/categories/agile-game/atom.xml" rel="self"/>
+  <link href="http://bobjiang.github.com/"/>
+  <updated>2013-05-02T12:29:25+08:00</updated>
+  <id>http://bobjiang.github.com/</id>
+  <author>
+    <name><![CDATA[Bob Jiang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[qcon 北京总结]]></title>
+    <link href="http://bobjiang.github.com/blog/2013/05/01/qcon-beijing-2013-summary/"/>
+    <updated>2013-05-01T21:23:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2013/05/01/qcon-beijing-2013-summary</id>
+    <content type="html"><![CDATA[<p>QCon北京2013大会<br/>
+大会时间：2013年4月25-27日<br/>
+大会地点：中国·北京 国际会议中心</p>
+
+<h2>社交篇</h2>
+
+<p>这次QCon大会上，碰到很多老朋友，也认识许多新朋友。听@Shining介绍uPerform是本届QCon的赞助商，首先想到Bill Li和王宇同学。另外QClub全国协调人@柴峰同学很健谈。认识了更多thoughtworks的高人，瑶瑶，徐八叉，刘海生等等等等。<br/>
+休息期间去图灵展台，认识了大名鼎鼎的谢工，以及图灵的知名编辑小花<br/>
+当然还有很多InfoQ的同学们，包括Charles, Kevin, 司巧蕾, Wendy, Jesse, Floyd等</p>
+
+<h2>演讲篇</h2>
+
+<p>《胜任管理》
+组织的进化——单一目标的组织（举例：不用知道事情肮脏的背后，如吃鱼香肉丝，不用知道猪是怎么养的。</p>
+
+<p>组织发展面临的障碍：</p>
+
+<ul>
+<li>等级制度</li>
+<li>疏离感</li>
+<li>输血文化</li>
+<li>成功背后的幽灵</li>
+</ul>
+
+
+<p>标准化培训</p>
+
+<ul>
+<li>入职培训</li>
+<li>团队拓展</li>
+<li>在线学习1</li>
+</ul>
+
+
+<p>结对实践</p>
+
+<ul>
+<li>文化技能导入</li>
+<li>定制化学习曲线</li>
+<li>榜样的力量</li>
+</ul>
+
+
+<p> 学习型组织（参考第五项修炼）</p>
+
+<ul>
+<li>建立共同愿景</li>
+<li>团队学习1</li>
+<li>改变心智模型</li>
+<li>自我超越</li>
+<li><p>系统思考</p>
+
+<p>组织的重新思考：</p></li>
+<li><p>成员，知识工作者</p></li>
+<li>任务，知识传递</li>
+<li>度量标准，<strong>知识影响力</strong></li>
+</ul>
+
+
+<p> <!-- more --></p>
+
+<p> 知识漏斗  vs  知识影响力</p>
+
+<p> <img src="/images/knowledge_impact.jpg"></p>
+
+<ul>
+<li>谜题（Mystery）vs 自我学习1</li>
+<li>启发式探索（Heuristic）vs 自我理解</li>
+<li>算法（Algorithm）vs 行为改变</li>
+<li>代码（Code） vs 客户、社区影响力</li>
+</ul>
+
+
+<p>读书雷达</p>
+
+<p>学习验证画布</p>
+
+<p><img src="/images/learning_canvas.jpg"></p>
+
+<h2>参考资料</h2>
+
+<p><a href="http://www.qconbeijing.com/speaker.php?id=206">自我介绍@QCon</a></p>
+
+<p><strong>有关QCon：</strong><br/>
+<a href="http://www.qconbeijing.com">QCon</a>是由<a href="http://www.infoq.com/cn/">InfoQ</a>主办的全球顶级技术盛会，每年在伦敦、北京、东京、纽约、圣保罗、杭州、旧金山召开。自2007年3月份首次举办以来，已经有包括传统制造、金融、电信、互联网、航空航天等领域的近万名架构师、项目经理、团队领导者和高级开发人员参加过QCon大会。</p>
+
+<p>秉承"促进软件开发领域知识与创新的传播"原则，QCon各项议题专为中高端技术人员设计，内容源于实践并面向社区。演讲嘉宾依据各重点和热点话题，分享技术趋势和最佳实践；作为主办方，InfoQ努力为参会者提供良好的学习和交流环境。</p>
+]]></content>
+  </entry>
+  
+</feed>
