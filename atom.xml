@@ -4,7 +4,7 @@
   <title><![CDATA[Bob Jiang Blog]]></title>
   <link href="http://bobjiang.github.com/atom.xml" rel="self"/>
   <link href="http://bobjiang.github.com/"/>
-  <updated>2013-05-02T12:29:25+08:00</updated>
+  <updated>2013-05-02T14:21:43+08:00</updated>
   <id>http://bobjiang.github.com/</id>
   <author>
     <name><![CDATA[Bob Jiang]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[agile coaching 读书笔记]]></title>
+    <link href="http://bobjiang.github.com/blog/2013/05/02/agile-coaching-reading/"/>
+    <updated>2013-05-02T14:10:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2013/05/02/agile-coaching-reading</id>
+    <content type="html"><![CDATA[<p>本书主要分为几大部分：</p>
+
+<ul>
+<li>教练基础，主要讲述如何开始敏捷教练之旅</li>
+<li>敏捷当中的会议，哪些地方容易出错，以及如何改进</li>
+<li>关注代码质量</li>
+<li>倾听反馈</li>
+</ul>
+
+
+<p>摘取部分想法来自于自我成长：</p>
+
+<ul>
+<li>每月阅读一本书</li>
+<li>开始写自己的博客</li>
+<li>参与一个开源项目</li>
+<li>每天在社区邮件列表中发一封信</li>
+<li>在上班路上听有声读物</li>
+<li>每月参加一次社区活动</li>
+</ul>
+
+
+<p>下面是全书的脑图（英文）：</p>
+
+<p> <img src="http://bobjiang.github.com/images/AgileCoaching.jpg"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[qcon 北京总结]]></title>
@@ -1070,67 +1103,6 @@ Toastmaster方面，2012投入的精力比较少，在2013需要更多的参与�
 <p>一旦员工100%利用起来（没有闲置的员工），这个时候闲置的工作就会呈指数级增长。而实际上闲置的工作成本比闲置人员更加昂贵，因此在Scrum中我们要清醒的认识到如何去除工作流中的瓶颈。</p>
 
 <p><strong>让工作真正流动起来，而不是让员工忙起来！</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[敏捷之旅青岛 2012 启动]]></title>
-    <link href="http://bobjiang.github.com/blog/2012/11/08/agiletour-qingdao-2012-kick-off/"/>
-    <updated>2012-11-08T14:00:00+08:00</updated>
-    <id>http://bobjiang.github.com/blog/2012/11/08/agiletour-qingdao-2012-kick-off</id>
-    <content type="html"><![CDATA[<p><strong>敏捷之旅青岛站的组织活动启动了。</strong></p>
-
-<p>2012年11月7日中午12点，方长江，孙淼，姜信宝（<a href="http://bobjiang.com">Bob Jiang</a>），<br/>
-滕振宇（<a href="http://www.danielteng.com">Daniel Teng</a>）放弃了中午午休的时间，经过一个<br/>
-小时的热烈协商，组织者队伍有了雏形。并且关键一点的是他们两位有了共同的目标 - <br/>
-提高个人在敏捷社区的知名度，同时结交知名讲师，扩大社交。</p>
-
-<p>最后的会议纪要如下：</p>
-
-<!-- more -->
-
-
-<p><strong>会议记录如下：</strong><br/>
-参会人：<br/>
-Bob Jiang (姜信宝)<br/>
-方长江<br/>
-孙淼<br/>
-Daniel Teng (滕振宇)</p>
-
-<ol>
-<li><p>场地</p>
-
-<ul>
-<li>方长江联系朋友</li>
-<li>考虑软件园做场地赞助</li>
-<li>联系王春生，去年的场地是否可以继续使用。</li>
-</ul>
-</li>
-<li><p>赞助商 （经费）<br/>
-中荷人寿 - Bob （姜信宝）跟进，并介绍给两位<br/>
-会议大致花费如下：</p>
-
-<ul>
-<li>讲师差旅费</li>
-<li>会议当天水费，零食</li>
-<li>场地免费，或有一定费用</li>
-</ul>
-</li>
-<li><p>主题，见面聊</p>
-
-<ul>
-<li>下周一 11月12日 晚上见面聊 （方长江， 孙淼）</li>
-<li>邀请王春生一起聊一下主题</li>
-</ul>
-</li>
-</ol>
-
-
-<hr />
-
-<p>其他资源：<br/>
-敏捷之旅中国网站： http://agiletour.cn<br/>
-组织者职责（如何组织敏捷之旅活动） - http://agiletour.cn/org-responsability/</p>
 ]]></content>
   </entry>
   

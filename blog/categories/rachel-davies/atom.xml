@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rachel Davies | Bob Jiang Blog]]></title>
+  <link href="http://bobjiang.github.com/blog/categories/rachel-davies/atom.xml" rel="self"/>
+  <link href="http://bobjiang.github.com/"/>
+  <updated>2013-05-02T14:21:43+08:00</updated>
+  <id>http://bobjiang.github.com/</id>
+  <author>
+    <name><![CDATA[Bob Jiang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[agile coaching 读书笔记]]></title>
+    <link href="http://bobjiang.github.com/blog/2013/05/02/agile-coaching-reading/"/>
+    <updated>2013-05-02T14:10:00+08:00</updated>
+    <id>http://bobjiang.github.com/blog/2013/05/02/agile-coaching-reading</id>
+    <content type="html"><![CDATA[<p>本书主要分为几大部分：</p>
+
+<ul>
+<li>教练基础，主要讲述如何开始敏捷教练之旅</li>
+<li>敏捷当中的会议，哪些地方容易出错，以及如何改进</li>
+<li>关注代码质量</li>
+<li>倾听反馈</li>
+</ul>
+
+
+<p>摘取部分想法来自于自我成长：</p>
+
+<ul>
+<li>每月阅读一本书</li>
+<li>开始写自己的博客</li>
+<li>参与一个开源项目</li>
+<li>每天在社区邮件列表中发一封信</li>
+<li>在上班路上听有声读物</li>
+<li>每月参加一次社区活动</li>
+</ul>
+
+
+<p>下面是全书的脑图（英文）：</p>
+
+<p> <img src="/images/AgileCoaching.jpg"></p>
+]]></content>
+  </entry>
+  
+</feed>
