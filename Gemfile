@@ -16,4 +16,3 @@ group :development do
 end
 
 gem 'sinatra', '~> 1.3.2'
-gem "faraday", "~> 0.8.4"
